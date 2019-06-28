@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "805830221498",
+    "firebase_url": "https://finalproject-ffde7.firebaseio.com",
+    "project_id": "finalproject-ffde7",
+    "storage_bucket": "finalproject-ffde7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805830221498:android:0dadf022f7ee606d",
+        "android_client_info": {
+          "package_name": "com.gpimentel.fptravel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805830221498-n61meoe6d15rvo6pl04uj1ufm1r253t2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gpimentel.fpTravel",
+            "certificate_hash": "3e24f899d2096001986f9fdf02dff46eae64a2a8"
+          }
+        },
+        {
+          "client_id": "805830221498-tra5rpd3pqnrqf9p9i5b55d4r28rn2nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC12rNYN240yb4f3rveGT3MxZInD-OjwuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805830221498-tra5rpd3pqnrqf9p9i5b55d4r28rn2nh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
