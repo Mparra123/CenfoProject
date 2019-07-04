@@ -1,42 +1,79 @@
 {
   "project_info": {
-    "project_number": "805830221498",
-    "firebase_url": "https://finalproject-ffde7.firebaseio.com",
-    "project_id": "finalproject-ffde7",
-    "storage_bucket": "finalproject-ffde7.appspot.com"
+    "project_number": "470276150614",
+    "firebase_url": "https://androidproyecto-9ca3b.firebaseio.com",
+    "project_id": "androidproyecto-9ca3b",
+    "storage_bucket": "androidproyecto-9ca3b.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:805830221498:android:0dadf022f7ee606d",
+        "mobilesdk_app_id": "1:470276150614:android:597a5ae623af613f",
         "android_client_info": {
-          "package_name": "com.gpimentel.fptravel"
+          "package_name": "com.example.proyetocenfo"
         }
       },
       "oauth_client": [
         {
-          "client_id": "805830221498-n61meoe6d15rvo6pl04uj1ufm1r253t2.apps.googleusercontent.com",
+          "client_id": "470276150614-89m5eokdu64ef4icajgnljiu6ni2d092.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.gpimentel.fpTravel",
-            "certificate_hash": "3e24f899d2096001986f9fdf02dff46eae64a2a8"
+            "package_name": "com.example.proyetocenfo",
+            "certificate_hash": "b2c3bd5626c91ad1d43e17c41ccb78a1e7812f9c"
           }
         },
         {
-          "client_id": "805830221498-tra5rpd3pqnrqf9p9i5b55d4r28rn2nh.apps.googleusercontent.com",
+          "client_id": "470276150614-59b1qd9a4oqhv835mqriig7hf2osp43u.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC12rNYN240yb4f3rveGT3MxZInD-OjwuQ"
+          "current_key": "AIzaSyD_1OZA-OrhLcwkkbGuMwexz-6x3s59M4o"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "805830221498-tra5rpd3pqnrqf9p9i5b55d4r28rn2nh.apps.googleusercontent.com",
+              "client_id": "470276150614-59b1qd9a4oqhv835mqriig7hf2osp43u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470276150614:android:fa9d1b700a41c36b",
+        "android_client_info": {
+          "package_name": "com.gpimentel.fptravel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470276150614-6ugm1gt37ouvie397mja1rs29eq40iln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gpimentel.fptravel",
+            "certificate_hash": "b2c3bd5626c91ad1d43e17c41ccb78a1e7812f9c"
+          }
+        },
+        {
+          "client_id": "470276150614-59b1qd9a4oqhv835mqriig7hf2osp43u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_1OZA-OrhLcwkkbGuMwexz-6x3s59M4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470276150614-59b1qd9a4oqhv835mqriig7hf2osp43u.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
