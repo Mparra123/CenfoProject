@@ -1,4 +1,4 @@
-package com.gpimentel.fptravel.view.fragment;
+package com.mparra.parra.view.fragment;
 
 import android.content.Context;
 import android.net.Uri;
@@ -10,17 +10,17 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.gpimentel.fptravel.R;
+import com.mparra.parra.R;
 
 /**
  * A simple {@link Fragment} subclass.
  * Activities that contain this fragment must implement the
- * {@link edit_property.OnFragmentInteractionListener} interface
+ * {@link add_property.OnFragmentInteractionListener} interface
  * to handle interaction events.
- * Use the {@link edit_property#newInstance} factory method to
+ * Use the {@link add_property#newInstance} factory method to
  * create an instance of this fragment.
  */
-public class edit_property extends Fragment {
+public class add_property extends Fragment {
     // TODO: Rename parameter arguments, choose names that match
     // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
     private static final String ARG_PARAM1 = "param1";
@@ -32,7 +32,7 @@ public class edit_property extends Fragment {
 
     private OnFragmentInteractionListener mListener;
 
-    public edit_property() {
+    public add_property() {
         // Required empty public constructor
     }
 
@@ -42,11 +42,11 @@ public class edit_property extends Fragment {
      *
      * @param param1 Parameter 1.
      * @param param2 Parameter 2.
-     * @return A new instance of fragment edit_property.
+     * @return A new instance of fragment add_property.
      */
     // TODO: Rename and change types and number of parameters
-    public static edit_property newInstance(String param1, String param2) {
-        edit_property fragment = new edit_property();
+    public static add_property newInstance(String param1, String param2) {
+        add_property fragment = new add_property();
         Bundle args = new Bundle();
         args.putString(ARG_PARAM1, param1);
         args.putString(ARG_PARAM2, param2);
@@ -67,7 +67,7 @@ public class edit_property extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_edit_property, container, false);
+        return inflater.inflate(R.layout.fragment_add_property, container, false);
     }
 
     // TODO: Rename method, update argument and hook method into UI event

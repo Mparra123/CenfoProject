@@ -1,4 +1,4 @@
-package com.gpimentel.fptravel;
+package com.mparra.parra.view;
 
 import android.app.Application;
 

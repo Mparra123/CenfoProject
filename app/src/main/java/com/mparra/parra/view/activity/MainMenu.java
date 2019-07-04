@@ -1,4 +1,4 @@
-package com.gpimentel.fptravel.view.activity;
+package com.mparra.parra.view.activity;
 
 import android.net.Uri;
 import android.os.Bundle;
@@ -14,8 +14,8 @@ import androidx.appcompat.app.ActionBarDrawerToggle;
 import android.view.MenuItem;
 
 import com.google.android.material.navigation.NavigationView;
-import com.gpimentel.fptravel.R;
-import com.gpimentel.fptravel.view.fragment.add_property;
+import com.mparra.parra.R;
+import com.mparra.parra.view.fragment.add_property;
 
 import androidx.drawerlayout.widget.DrawerLayout;
 

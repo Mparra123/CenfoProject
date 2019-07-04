@@ -1,4 +1,4 @@
-package com.gpimentel.fptravel.view.activity;
+package com.mparra.parra.view.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -11,7 +11,7 @@ import com.facebook.Profile;
 import com.facebook.login.LoginManager;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
-import com.gpimentel.fptravel.R;
+import com.mparra.parra.R;
 
 public class MainActivity extends AppCompatActivity {
     private TextView mName, mEmail, mId;

@@ -1,4 +1,4 @@
-package com.gpimentel.fptravel.model;
+package com.mparra.parra.model;
 
 public class Property {
     
